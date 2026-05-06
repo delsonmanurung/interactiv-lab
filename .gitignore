@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+
+# Model cache
+.cache/
+runs/
+
+# Environment
+.env
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
