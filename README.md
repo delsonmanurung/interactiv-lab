@@ -8,6 +8,8 @@
 
 Aplikasi dirancang sebagai purwarupa untuk mahasiswa pascasarjana Magister Teknik Informatika guna melakukan *hands-on learning* pada model Neural Network berkinerja tinggi langsung melalui peramban (browser) web, tanpa perlu persiapan lingkungan instalasi GPU kompleks.
 
+dapat dilihat pada https://interactiv-lab.streamlit.app
+
 ---
 
 ## 🚀 Fitur Utama (Modul Pembelajaran)
