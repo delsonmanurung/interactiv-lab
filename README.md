@@ -103,7 +103,5 @@ Proyek ini disiapkan untuk mendukung penerapan kontinu (*Continuous Deployment*)
 ## 👤 Pengembang & Penghargaan
 Aplikasi laboratorium ini direkayasa sebagai bagian dari kewajiban/eksplorasi akademis di Program Studi Magister Teknik Informatika (S2). 
 
-Bila merasa proyek ini membantu kelancaran studi analitik terkait visi komputer, jangan ragu untuk memberikan bintang (⭐) pada repositori ini!
-
 ---
 > *Lisensi diatur secara terbuka di bawah atribusi MIT License. Segala modifikasi dan komersialisasi diizinkan.*
